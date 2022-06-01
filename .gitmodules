@@ -1,0 +1,3 @@
+[submodule "fossbot"]
+	path = fossbot
+	url = https://github.com/eellak/fossbot.git
